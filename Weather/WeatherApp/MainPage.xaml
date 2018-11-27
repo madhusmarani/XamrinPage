@@ -63,7 +63,7 @@
             
             <Button Grid.Row="1" 
                     Grid.Column="2"
-                    Text="Get Weather" 
+                    Text="Get Weather Test" 
                     BorderWidth="1"
                     BorderColor="White"
                     BackgroundColor="DarkGray"
